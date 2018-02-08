@@ -7,7 +7,6 @@ import com.balckhao.blackonvif.onvifBean.Digest;
 import com.balckhao.blackonvif.onvifBean.MediaProfile;
 import com.balckhao.blackonvif.util.Gsoap;
 import com.balckhao.blackonvif.util.HttpUtil;
-import com.balckhao.blackonvif.util.WriteFileUtil;
 import com.balckhao.blackonvif.util.XmlDecodeUtil;
 
 import java.io.IOException;
